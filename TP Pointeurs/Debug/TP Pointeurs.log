@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Rafael Mestre\POO-Ynov\TP Pointeurs\main.c(75,39): warning C4047: 'fonction' : les niveaux d'indirection de 'const int *' et de 'int' sont différents
+C:\Users\Rafael Mestre\POO-Ynov\TP Pointeurs\main.c(75,36): warning C4024: 'checkTab' : types différents pour le paramètre formel et réel 2
+C:\Users\Rafael Mestre\POO-Ynov\TP Pointeurs\main.c(70,1): warning C4047: 'initialisation' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+  TP Pointeurs.vcxproj -> C:\Users\Rafael Mestre\POO-Ynov\TP Pointeurs\Debug\TP Pointeurs.exe
