@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Rafael Mestre\POO Ynov\PremierProgramme\ConsoleApplication1\ConsoleApplication1\main.c(8,21): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  ConsoleApplication1.vcxproj -> C:\Users\Rafael Mestre\POO Ynov\PremierProgramme\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

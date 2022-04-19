@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Rafael Mestre\POO-Ynov\Fonctions\Fonctions\main.c(14,29): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\Rafael Mestre\POO-Ynov\Fonctions\Fonctions\main.c(22,25): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  Fonctions.vcxproj -> C:\Users\Rafael Mestre\POO-Ynov\Fonctions\Debug\Fonctions.exe
